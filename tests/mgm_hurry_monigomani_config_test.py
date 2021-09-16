@@ -1,0 +1,1 @@
+/home/hh/Documents/trading/freqtrade-mgm/monigomani/tests/mgm_hurry_monigomani_config_test.py
